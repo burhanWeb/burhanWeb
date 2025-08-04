@@ -4,4 +4,4 @@ Hi, I’m burhan sidiq 👋
 
 🚀 Exploring new things daily
 
-📫 Reach me at | burhanweb111@gmail.com
+📫 Reach me at | burhansidiq.backend@gmail.com
