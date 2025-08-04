@@ -1,7 +1,7 @@
 Hi, I’m burhan sidiq 👋
 
-👨‍💻 JavaScript Developer
+JavaScript Developer
 
-🚀 Exploring new things daily
+Exploring new things daily
 
-📫 Reach me at | burhansidiq.backend@gmail.com
+Reach me at:burhansidiq.backend@gmail.com
