@@ -1,1 +1,1 @@
-[![Burhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanWeb)](https://github.com/anuraghazra/github-readme-stats)
+![Burhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=burhanWeb&show_icons=true&theme=tokyonight&border_radius=10)
